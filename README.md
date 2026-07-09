@@ -1,134 +1,47 @@
-#  Robot Dog – Initial Mechanical Design
+# Robot Dog Mechanical Design
 
-## Overview
+## Project Overview
+This project presents the conceptual mechanical design of a quadruped (robot dog). The goal is to create a simple and stable robot structure that can be used as the foundation for future robotics development. The project focuses on the mechanical design process, including the robot's structure, body shape, leg arrangement, and a basic 3D model.
 
-This project presents the initial mechanical design of a simple quadruped robot (Robot Dog). The robot is designed to perform basic walking and jumping while maintaining stability through a lightweight and compact mechanical structure.
+## Objectives
+- Design a simple quadruped robot structure.
+- Create a clear mechanical concept for the robot.
+- Develop a basic 3D model.
+- Prepare the design for future implementation and improvement.
 
----
+## Tools Used
+- Tinkercad – 3D modeling
+- GitHub – Project documentation and file management
 
-#  Concept Sketch
+## Project Files
 
-The following sketch illustrates the initial concept of the robot before creating the 3D model.
+### Sketch
+Contains the initial design sketch and the engineering details, including:
+- Body structure
+- Leg design
+- Number of joints
+- Degrees of freedom (DOF)
+- Initial torque calculation
+- Stability and center of gravity
+- Proposed walking method
+- Mechanical challenges
 
-<img width="1149" height="1369" alt="ce4b2dd8-33b1-4aa6-80c6-43ebf7538bf2" src="https://github.com/user-attachments/assets/c1bae595-9f80-43cc-8bb1-facaaaf0c344" />
+### 3D Design
+Contains the final 3D model created in Tinkercad, along with images of the design and the model link.
+
+## Project Preview
+
+### 3D Model
+<img width="910" height="611" alt="robot-dog-3d-design" src="https://github.com/user-attachments/assets/cba80bdd-72d0-4681-b3fe-9bca408e8c59" />
 
 
----
-
-#  3D Design
-
-The robot was modeled using **Tinkercad**. The design consists of a simple rectangular body with four identical legs connected through revolute joints.
-
-
-<img width="910" height="611" alt="Screenshot 2026-07-09 215110" src="https://github.com/user-attachments/assets/59d5a915-c14f-4c3b-b111-81aca22d613d" />
-
-
-## 3D Design link
+## Tinkercad Design
+**Model Link:**
 https://www.tinkercad.com/things/eh246QalNr1-robot-dog-mechanical-design
 
----
-
-# 1. Body and Chassis
-
-The robot features a lightweight rectangular chassis with a hollow structure to accommodate electronic components such as the battery and controller. The simple body design reduces weight while improving structural stability.
-
----
-
-# 2. Leg Design
-
-The robot has four identical legs. Each leg consists of two rigid links connected by two revolute joints (Hip and Knee). This configuration allows the robot to perform walking and basic jumping movements while maintaining a simple mechanical design.
-
----
-
-# 3. Number of Joints & Degrees of Freedom (DOF)
-
-Each leg contains:
-
-- Hip Joint → 1 DOF
-- Knee Joint → 1 DOF
-
-Total:
-
-- 4 Legs
-- 8 Joints
-- 8 Degrees of Freedom (8 DOF)
-
-This configuration provides sufficient flexibility while keeping the design simple.
-
----
-
-# 4. Motor Selection
-
-The robot uses **MG996R Servo Motors** due to their high torque, durability, and ease of control.
-
-**Specifications**
-- Metal Gear Servo
-- High Torque
-- Operating Voltage: 6–7.4 V
-- Suitable for lightweight quadruped robots
-
----
-
-# 5. Initial Torque Calculation
-
-Assumptions:
-
-- Robot weight = 2 kg
-- Load on one leg = 0.5 kg
-- Leg length = 0.13 m
-
-Force:
-
-F = m × g
-
-F = 0.5 × 9.81 = 4.905 N
-
-Torque:
-
-τ = F × L
-
-τ = 4.905 × 0.13 ≈ **0.64 N·m**
-
-The selected servo motor can provide sufficient torque for the proposed design.
-
----
-
-# 6. Stability & Center of Gravity
-
-The center of gravity is positioned near the middle of the robot body to ensure better balance. The four-leg configuration distributes the load evenly, improving stability during standing, walking, and jumping.
-
----
-
-# 7. Proposed Gait
-
-The robot uses a **Trot Gait** for walking, where diagonal legs move together to provide stability and efficient motion.
-
-For jumping, all four legs bend simultaneously before extending together to generate an upward force.
-
----
-
-# 8. Expected Mechanical Problems
-
-Possible challenges include:
-
-- Joint wear
-- Foot slippage
-- High landing impact
-- High power consumption
-- Servo motor overheating
-- Possible failure of 3D-printed components
-
----
-
-#  Software
-
-- Tinkercad
-- GitHub
-
----
-
-#  Author
+## Author
+Amal yasser
 
 
-**Amal Yasser**
+
 
