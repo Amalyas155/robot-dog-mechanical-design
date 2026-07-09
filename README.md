@@ -1,4 +1,4 @@
-# 🤖 Robot Dog – Initial Mechanical Design
+#  Robot Dog – Initial Mechanical Design
 
 ## Overview
 
@@ -6,7 +6,7 @@ This project presents the initial mechanical design of a simple quadruped robot 
 
 ---
 
-# ✏️ Concept Sketch
+#  Concept Sketch
 
 The following sketch illustrates the initial concept of the robot before creating the 3D model.
 
@@ -15,7 +15,7 @@ The following sketch illustrates the initial concept of the robot before creatin
 
 ---
 
-# 🖥️ 3D Design
+#  3D Design
 
 The robot was modeled using **Tinkercad**. The design consists of a simple rectangular body with four identical legs connected through revolute joints.
 
