@@ -19,8 +19,12 @@ The following sketch illustrates the initial concept of the robot before creatin
 
 The robot was modeled using **Tinkercad**. The design consists of a simple rectangular body with four identical legs connected through revolute joints.
 
+
 <img width="910" height="611" alt="Screenshot 2026-07-09 215110" src="https://github.com/user-attachments/assets/59d5a915-c14f-4c3b-b111-81aca22d613d" />
 
+
+## 3D Design link
+https://www.tinkercad.com/things/eh246QalNr1-robot-dog-mechanical-design
 
 ---
 
