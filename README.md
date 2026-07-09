@@ -34,13 +34,10 @@ Contains the final 3D model created in Tinkercad, along with images of the desig
 ### 3D Model
 <img width="910" height="611" alt="robot-dog-3d-design" src="https://github.com/user-attachments/assets/cba80bdd-72d0-4681-b3fe-9bca408e8c59" />
 
-
-## Tinkercad Design
-**Model Link:**
-https://www.tinkercad.com/things/eh246QalNr1-robot-dog-mechanical-design
-
 ## Author
-Amal yasser
+Amal Yasser
+Computer and Network Engineering Student
+University of Jeddah
 
 
 
