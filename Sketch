@@ -1,0 +1,66 @@
+# Robot Dog Mechanical Sketch
+
+## 1. Sketch
+
+
+
+
+---
+
+## 2. Body Structure
+
+The robot has a rectangular body that provides a stable base for mounting the electronic components, battery, controller, and motors. The design is simple to manufacture and lightweight.
+
+---
+
+## 3. Leg Design
+
+The robot has four identical legs. Each leg is connected to the body through joints that allow forward and backward movement during walking.
+
+---
+
+## 4. Number of Joints
+
+- 4 Legs
+- 2 Joints per leg
+- Total = 8 Joints
+
+---
+
+## 5. Degrees of Freedom (DOF)
+
+Each joint provides one rotational degree of freedom.
+
+**Total DOF = 8**
+
+---
+
+## 6. Initial Torque Calculation
+
+Assumptions:
+- Robot weight = 3 kg
+- Weight is equally distributed among the four legs.
+
+Estimated required torque:
+- Approximately 2–3 kg·cm per joint for a basic prototype.
+
+---
+
+## 7. Stability and Center of Gravity
+
+The center of gravity is located near the middle of the robot body to improve balance and reduce the possibility of tipping while walking.
+
+---
+
+## 8. Proposed Walking Method
+
+The robot is designed to use a simple walking gait where diagonal legs move together to improve stability.
+
+---
+
+## 9. Mechanical Challenges
+
+- Maintaining balance during movement.
+- Reducing the total robot weight.
+- Selecting motors with sufficient torque.
+- Designing durable joints.
