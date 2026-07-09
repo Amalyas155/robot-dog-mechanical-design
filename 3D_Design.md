@@ -6,12 +6,6 @@
 
 ---
 
-## 2. Tinkercad Design Link
-
-https://www.tinkercad.com/things/eh246QalNr1-robot-dog-mechanical-design
-
----
-
 ## 3. Design Description
 
 The 3D model represents a simple quadruped robot dog structure. It includes a main rectangular body, four legs, and joint areas that show the basic mechanical movement concept.
